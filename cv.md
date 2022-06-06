@@ -1,6 +1,6 @@
-#Andrey Mishuk
+# Andrey Mishuk
 
-##Contacts:
+## Contacts:
 
 * Location: Berezino, Belarus
 * Phone: +375 33 6198504
@@ -8,18 +8,18 @@
 * GitHub: [AndreyMishuk](https://github.com/AndreyMishuk)
 * Discord: opium#0999
 
-##About myself:
+## About myself:
 
-****I interesting programming languages.*
+*I interesting programming languages.*
 
-##Skils:
+## Skils:
 
 * ***HTML5, CSS3
 * JavaScript (Basic)
 * Python (Basic)
 * VS Code, Vim
 
-##Courses:
+## Courses:
 
 * HTML & CSS ([w3schools](https://www.w3schools.com/))
 * Python ([Hexlet](https://ru.hexlet.io/u/andreym))
